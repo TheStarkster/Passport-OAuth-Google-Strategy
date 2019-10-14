@@ -1,1 +1,1 @@
-# Passport-OAuth-Google-Strategy-Node.Js-and-React.Js
+# Passport-OAuth-Google-Strategy
